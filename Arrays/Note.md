@@ -14,4 +14,9 @@ Array Notes (Python)
 
 [How Many Numbers Are Smaller Than the Current Number](./How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/Solution.py)
 
-### Balancing between storage and compute. Also noticed, enumerate changes the physically array stored but if looping without that and using sorted() we get sorted array just for the loop.
+### Balancing between storage and compute. Also noticed, enumerate changes the physically stored array but if looping without that and using sorted() we get sorted array just for the loop.
+
+[Merge Sorted Array](./Merge%20Sorted%20Array/Solution.py)
+### Look for reverse Engineering options
+
+
